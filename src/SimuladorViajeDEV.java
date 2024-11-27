@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 //Toda la lógica del simulador se encuentra dentro de esta clase.
-public class App{
+public class SimuladorViajeDEV{
 
     // Datos estaticos de los planetas-arreglos para almacenar informacion 
     static String[] planetas = {"Marte", "Júpiter", "Saturno"};
@@ -169,4 +169,3 @@ public class App{
         }
     }
 }
-
