@@ -5,7 +5,12 @@ tiempo de viaje, y gestionar los recursos de la nave. El objetivo es aplicar con
 básicos de programación de forma práctica y entretenida.
 */
 
-
+/*
+ * ALISON LOPEZ
+ * FREDY PINEDA RODRIGUEZ
+ * GRUPO 18
+ * 
+ */
 import java.util.Scanner;
 import java.util.Random;
 
